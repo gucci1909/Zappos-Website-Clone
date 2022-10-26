@@ -13,7 +13,7 @@
 
 ## Live Demo 
 
-[Netlify link available here](https://preeminent-concha-2ff4de.netlify.app/)
+[Netlify link available here](https://spontaneous-starlight-6559f8.netlify.app/)
 
 
 
